@@ -3,6 +3,6 @@
 Lưu các thứ liên quan đến quá trình học tại trường của mình.
 
 ## Copyright
-All the materials uploaded here simply served for educational purposes, using for commercial purposes without consent is forbidden.
+All the materials uploaded here are simply served for educational purposes, using for commercial purposes without consent is forbidden.
 
 This Github organization is not affiliated with Hanoi University, FITHANU LMS and it is solely created for educational purposes.
