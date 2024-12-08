@@ -40,6 +40,6 @@ Nên năm ba sẽ chia theo các mảng mình chọn
 Không biết
 
 ## Copyright
-All the materials uploaded here are simply served for educational purposes, using for commercial purposes without consent is forbiddeC.
+All the materials uploaded here are simply served for educational purposes, using for commercial purposes without consent is forbidden.
 
 This Github organization is not affiliated with Hanoi University, FITHANU LMS and it is solely created for educational purposes.
